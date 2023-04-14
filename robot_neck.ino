@@ -17,7 +17,7 @@ int pam_phase2 = 120;
 int pam_phase3 = 240;
 int dac_voltage_in = 4095;
 int dac_voltage_out = 4095; //3000 not bad
-double air_delay = 1;
+double air_delay = 2;
 int min_volt_out = 0;
 int min_volt_in = 2900;
 
